@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# 环境变量与密钥
+.env
+.env.*
+
+# 编辑器
+.vscode/
+
+# 模型权重与编译产物
+*.pth
+*.pt
+*.onnx
+*.pkl
+*.bin
+*.mapping
+**/ir/
+
+# 采集的训练数据（图像）与训练输出图片
+**/data/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# 压缩包
+*.zip
+*.rar
+
+# Unity 仿真器（下载的二进制游戏构建，非源码）
+**/Simulation platform controller/
+
+# 过程性资料（图片/视频等媒体文件）
+hand/
+
+.DS_Store

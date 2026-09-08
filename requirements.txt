@@ -1,0 +1,17 @@
+# 深度学习训练 / 推理
+torch
+torchvision
+numpy
+opencv-python
+pillow
+tensorboard
+onnx
+
+# 仿真平台（Donkey Car simulator）
+gym
+gym-donkeycar
+
+# 树莓派实车硬件相关（仅实车需要）
+# picarx        # SunFounder PiCar-X 驱动
+# readchar      # 键盘遥控
+# openvino      # Intel 神经计算棒加速（可选）
