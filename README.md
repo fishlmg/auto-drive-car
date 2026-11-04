@@ -49,7 +49,7 @@ auto_drive/
     │   ├── models.py / datasets.py
     │   └── data/                           # 仿真采集数据（不入库）
     └── OpenCV/
-        ├── audo_drive.py / test_sim.py     # 仿真车道线驾驶
+        ├── auto_drive.py / test_sim.py     # 仿真车道线驾驶
         ├── collect_data.py                 # 仿真驾驶数据采集
         └── tools.py
 ```

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@文件        :audo_drive.py
+@文件        :auto_drive.py
 @说明        :基于OpenCV的自动驾驶平台模拟控制
 @版本        :1.0
 '''
